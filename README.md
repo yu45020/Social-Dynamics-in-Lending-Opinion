@@ -1,6 +1,5 @@
 # Social Dynamics in Lending Opinion
 
-If you see this line, it means the author is cleaning the codes and add documentation.
 
 ______________ Codes Folder ______________
 
@@ -32,3 +31,6 @@ ECB:
 BOJ: 
   Contains raw data for Japan and imputed data for bad loan data. A relatively easy way to extra data from BOJ's lending survey may be tabulapdf/tabula from https://github.com/tabulapdf/tabula . Converting the pdfs to xml/html may be inefficient.
   
+_______________________________________
+
+If you find any error,  please make a new issue. I will update the code and result (if necessary) as soon as possible. 
