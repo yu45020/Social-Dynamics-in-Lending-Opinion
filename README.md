@@ -3,6 +3,7 @@
 If you see this line, it means the author is cleaning the codes and add documentation.
 
 ______________ Codes Folder ______________
+
 1. MLE.py codes the opinion formation model. The class is inherited from Scipy's GenericLikelihoodModel.
 2. utility.py contains self-defined functions. Not all of them are used for the paper. 
 
@@ -12,13 +13,13 @@ ______________ Codes Folder ______________
 6. USDICS stability check.py examines the coefficient of the diffusion index of credit spread in peer only US model. 
 
 ______________ Data Folder ______________
+
 All raw data are public, and many of them can be obtain from central banks' websites. 
 
 df1mea.csv : US dataset
-
 ECB dataset completed.csv : Euro Area dataset 
-
 BOJ complete.csv : Japan dataset
+US,Euro Area, Japan: reasons for changing lending policies
 
 US:
   1. clean us data.R cleans all raw data and output df1ema.csv, which is used to analyze US credit dynamics. 
