@@ -1,6 +1,5 @@
 # Social Dynamics in Lending Opinion
 
-
 ______________ Codes Folder ______________
 
 1. MLE.py codes the opinion formation model. The class is inherited from Scipy's GenericLikelihoodModel.
@@ -34,3 +33,5 @@ BOJ:
 _______________________________________
 
 If you find any error,  please make a new issue. I will update the code and result (if necessary) as soon as possible. 
+
+A brief discussion on the paper is in my blog https://yuthought.blogspot.com/2017/09/social-dynamics-in-lending-opinions.html. 
